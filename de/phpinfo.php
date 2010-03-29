@@ -1,0 +1,4 @@
+<?
+phpinfo();
+?>
+slap that ham
